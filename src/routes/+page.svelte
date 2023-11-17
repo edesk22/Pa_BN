@@ -1,29 +1,29 @@
 <script>
-    import Izq_S from "./Izq_S.svelte";
-    import Cen_S from "./Cen_S.svelte";
-    import Der_S from "./Der_S.svelte";
-    import Izq_M from "./Izq_M.svelte";
-    import Cen_M from "./Cen_M.svelte";
-    import Der_M from "./Der_M.svelte";
-    import Izq_B from "./Izq_B.svelte";
-    import Cen_B1 from "./Cen_B1.svelte";
-    import Cen_B2 from "./Cen_B2.svelte";
-    import Der_B from "./Der_B.svelte";
+    import Elem_01 from "./Elem_01.svelte";
+    import Elem_02 from "./Elem_02.svelte";
+    import Elem_03 from "./Elem_03.svelte";
+    import Elem_04 from "./Elem_04.svelte";
+    import Elem_05 from "./Elem_05.svelte";
+    import Elem_06 from "./Elem_06.svelte";
+    import Elem_07 from "./Elem_07.svelte";
+    import Elem_08 from "./Elem_08.svelte";
+    import Elem_09 from "./Elem_09.svelte";
+    import Elem_10 from "./Elem_10.svelte";
 </script>
 
 <div class="grid-container">
-    <Izq_S />
-    <Cen_S />
-    <Der_S />
+    <Elem_01 />
+    <Elem_02 />
+    <Elem_03 />
 
-    <Izq_M />
-    <Cen_M />
-    <Der_M />
+    <Elem_04 />
+    <Elem_05/>
+    <Elem_06 />
 
-    <Izq_B />
-    <Cen_B1 />
-    <Cen_B2 />
-    <Der_B />
+    <Elem_07 />
+    <Elem_08 />
+    <Elem_09 />
+    <Elem_10/>
 </div>
 
 <style>

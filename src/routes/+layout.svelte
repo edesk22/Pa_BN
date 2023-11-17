@@ -23,7 +23,7 @@
 </footer>
 
 <style>
-    /* header{
+    header{
         background-image: url(header.png);        
     }
 
@@ -40,5 +40,5 @@
     padding: 0;
     border: -rem;
     opacity: 0.3;
-    } */
+    }
 </style>
