@@ -1,5 +1,5 @@
 <div class="item">
-    <h1><a href="/work">Work</a></h1>
+    <h1><a href="/elem_03_blog">Work</a></h1>
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam ipsam
         laudantium eos, obcaecati eum esse excepturi est, sint, aspernatur
