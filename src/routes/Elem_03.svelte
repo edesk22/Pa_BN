@@ -1,10 +1,7 @@
 <div class="item">
-    <h1><a href="/elem_03_blog">Work</a></h1>
+    <h1><a href="/elem_03_blog">BLOG</a></h1>
     <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam ipsam
-        laudantium eos, obcaecati eum esse excepturi est, sint, aspernatur
-        laboriosam fugiat odit eius perspiciatis. Alias tempore voluptates cum
-        temporibus et.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, id maxime? Aut, aspernatur rem earum quia eveniet libero aliquam in repellat dolore nesciunt adipisci mollitia modi itaque totam quas illo!
     </p>
 </div>
 
